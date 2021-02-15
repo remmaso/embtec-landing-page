@@ -29,11 +29,6 @@ export class Navigation extends Component {
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
-                <a href="#features" className="page-scroll">
-                  Features
-                </a>
-              </li>
-              <li>
                 <a href="#about" className="page-scroll">
                   About
                 </a>
@@ -43,27 +38,7 @@ export class Navigation extends Component {
                   Services
                 </a>
               </li>
-              <li>
-                <a href="#portfolio" className="page-scroll">
-                  Gallery
-                </a>
-              </li>
-              <li>
-                <a href="#testimonials" className="page-scroll">
-                  Testimonials
-                </a>
-              </li>
-              <li>
-                <a href="#team" className="page-scroll">
-                  Team
-                </a>
-              </li>
-              <li>
-                <a href="#contact" className="page-scroll">
-                  Contact
-                </a>
-              </li>
-            </ul>
+              </ul>
           </div>
         </div>
       </nav>
